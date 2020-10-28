@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "753231723173",
+    "firebase_url": "https://fir-meetup-1d7b8.firebaseio.com",
+    "project_id": "fir-meetup-1d7b8",
+    "storage_bucket": "fir-meetup-1d7b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753231723173:android:e8ab16147f388063646b4c",
+        "android_client_info": {
+          "package_name": "company.swellsolutions.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753231723173-u3b59h62i6h0n3j5hgggo543mn9smrjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOv1K1QrN50O4k_RC_FjwMIM_iS6jpl0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753231723173-u3b59h62i6h0n3j5hgggo543mn9smrjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
