@@ -303,7 +303,8 @@ class _RegisterFormState extends State<RegisterForm> {
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.end,
                     children: [
-                      StyledButton(
+                      FlatButton(
+                        highlightColor: Colors.deepPurple,
                         onPressed: widget.cancel,
                         child: Text('CANCEL'),
                       ),
